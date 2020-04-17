@@ -1,0 +1,7 @@
+To turn on distortion at water find please turn on Opaque Texture setting in LW RP settings.
+You can find it at:
+LWRP-HighQuality
+LWRP-LowQuality
+LWRP-MediumQuality
+
+At the top of the settings.

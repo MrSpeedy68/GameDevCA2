@@ -1,0 +1,3 @@
+In unity 2019.2 HD RP there is exposure issue inside engine. In normal scenes it shoudnt exist but in unity sample scene it is. In fact that killed shore and distortion.
+It's raported bug and we wait for fix. At our and new scenes it work fine. Its possible to fx that. In all water shaders change:
+line: GetInverseCurrentExposureMultiplier()*0.001 change into line: GetInverseCurrentExposureMultiplier() but this can generate brightness issues.
